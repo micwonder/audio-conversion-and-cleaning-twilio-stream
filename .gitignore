@@ -1,1 +1,4 @@
 /env
+*.raw
+*.mp3
+*.wav
